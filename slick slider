@@ -37,3 +37,28 @@ $(document).ready(function(){
       ]
     });
 });
+
+
+
+/*slick customize*/
+.slick-dots{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.slick-dots li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.slick-dots li button{
+    font-size: 0;
+    height: 15px;
+    width: 15px;
+    background: transparent;
+    border: 2px solid #FF0044;
+    border-radius: 50%;
+}
+.slick-dots .slick-active button{
+    background: #f04;
+}
+/*slick customize*/
