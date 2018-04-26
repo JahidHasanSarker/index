@@ -1,0 +1,26 @@
+/* ========= Extra Large Device =========== */
+
+@media (min-width:1200px)  {
+
+}
+/* ========= Large Device =========== */
+
+@media (min-width:992px) and (max-width:1199px) {
+
+}
+
+/* ========= Medium Device ========== */
+@media (min-width:768px) and (max-width:991px) {
+
+}
+/* ========= Small Device =========== */
+
+@media (min-width:576px) and (max-width:767px) {
+
+}
+/* ========= Extra Small Landscape Device ========= */
+
+@media (min-width:320px) and (max-width:575px) {
+
+}
+
